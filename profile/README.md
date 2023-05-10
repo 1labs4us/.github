@@ -6,4 +6,4 @@ We are committed to developing applications that are intuitive, easy to use, and
 
 We believe in the power of collaboration and the democratization of technology. That's why our apps are `open source`, so that anyone can contribute, improve, and build upon them. We encourage you to explore our projects, use them in your own work, and even contribute to their development.
 
-Thank you for visiting `One Labs for us`  organization and for your interest in our open source applications. We hope our tools can help you be more productive and efficient in your daily tasks. Don't hesitate to reach out to us if you have any questions or suggestions. Have a great day! 😁
+Thank you for visiting `One Labs for us`  organization and for your interest in our open source applications. We hope our tools can help you be more productive and efficient in your daily tasks. Don't hesitate to reach out to us if you have any questions or suggestions. Have a great day!
